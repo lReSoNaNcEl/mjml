@@ -6,7 +6,7 @@
 
     <mj-column width="92%">
         <mj-button href="https://ligalektorov.znanierussia.ru/"
-                   width="380px"
+                   width="80%"
                    height="60px"
                    align="left"
                    border="2px solid white"
