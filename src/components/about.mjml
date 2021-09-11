@@ -1,0 +1,38 @@
+<mj-wrapper padding="1px" background-color="#B498EB" border-radius="20px">
+    <mj-section padding-top="50px" padding-bottom="40px" border-radius="20px" background-color="#fff">
+        <mj-group width="92%">
+            <mj-column width="15%">
+                <mj-image align="center" width="24px" padding="0" src="./assets/img/icons/1.png"/>
+            </mj-column>
+            <mj-column width="80%">
+                <mj-text font-family="Favorit Pro" padding="0" font-size="20px" line-height="150%"><span style="font-weight: bold">Звание Лектора Знания</span> и возможность регулярных выступлений на лучших площадках страны</mj-text>
+            </mj-column>
+        </mj-group>
+
+        <mj-column>
+            <mj-spacer height="35px"/>
+        </mj-column>
+
+        <mj-group width="92%">
+            <mj-column width="15%">
+                <mj-image width="39px" padding="0" src="./assets/img/icons/2.png"/>
+            </mj-column>
+            <mj-column width="80%">
+                <mj-text font-family="Favorit Pro" padding="0" font-size="20px" line-height="150%"><span style="font-weight: bold">Ценные призы</span> от «Знания» и наших партнёров</mj-text>
+            </mj-column>
+        </mj-group>
+
+        <mj-column>
+            <mj-spacer height="35px"/>
+        </mj-column>
+
+        <mj-group width="92%">
+            <mj-column width="15%">
+                <mj-image width="43.5px" padding="0" src="./assets/img/icons/3.png"/>
+            </mj-column>
+            <mj-column width="80%">
+                <mj-text font-family="Favorit Pro" padding="0" font-size="20px" line-height="150%">Постоянная <span style="font-weight: bold">прокачка навыков</span> ораторского мастерства и презентации</mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+</mj-wrapper>

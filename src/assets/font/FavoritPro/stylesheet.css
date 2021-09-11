@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Favorit Pro;
+    src: url(FavoritProBold.woff2) format("woff2"), url('FavoritProBold.woff') format("woff");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Favorit Pro;
+    src: url('FavoritProRegular.woff2') format("woff2"), url('FavoritProRegular.woff') format("woff");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Favorit Pro;
+    src: url('FavoritProLight.woff2') format("woff2"), url('FavoritProLight.woff') format("woff");
+    font-weight: 300;
+}

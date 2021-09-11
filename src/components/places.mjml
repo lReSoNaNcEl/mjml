@@ -1,0 +1,31 @@
+<mj-wrapper padding="1px" background-color="#B498EB" border-radius="20px">
+    <mj-section padding-top="50px" padding-bottom="40px" border-radius="20px" background-color="#fff">
+        <mj-column width="92%">
+            <mj-text font-size="20px"><span style="font-weight: 500">100 авторских туров</span> в уникальные места</mj-text>
+            <mj-spacer height="28px"/>
+        </mj-column>
+        <mj-group width="92%">
+            <mj-column>
+                <mj-image padding="0" width="80px" src="./assets/img/places/1.png"/>
+            </mj-column>
+            <mj-column>
+                <mj-image padding="0" width="80px" src="./assets/img/places/2.png"/>
+            </mj-column>
+            <mj-column>
+                <mj-image padding="0" width="80px" src="./assets/img/places/3.png"/>
+            </mj-column>
+            <mj-column>
+                <mj-image padding="0" width="80px" src="./assets/img/places/4.png"/>
+            </mj-column>
+            <mj-column>
+                <mj-image padding="0" width="80px" src="./assets/img/places/5.png"/>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+</mj-wrapper>
+
+<mj-section padding="0">
+    <mj-column>
+        <mj-spacer height="30px"/>
+    </mj-column>
+</mj-section>

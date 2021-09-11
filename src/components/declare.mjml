@@ -1,0 +1,6 @@
+<mj-section>
+    <mj-column width="92%">
+        <mj-text font-family="Favorit Pro" font-size="28px" line-height="150%" font-weight="bold">Заяви о себе на всю страну — выйди на новый профессиональный уровень!</mj-text>
+        <mj-text font-family="Favorit Pro" font-size="20px" line-height="150%" font-weight="350">Мы поможем тебе с цифровизацией контента и продвижением на федеральном уровне!</mj-text>
+    </mj-column>
+</mj-section>

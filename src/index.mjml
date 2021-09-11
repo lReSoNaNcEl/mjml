@@ -1,0 +1,14 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Favorit Pro" href="./assets/font/FavoritPro/stylesheet.css"/>
+    </mj-head>
+    <mj-body width="576px">
+        <mj-include path="./components/header.mjml"/>
+        <mj-include path="./components/preview.mjml"/>
+        <mj-include path="./components/places.mjml"/>
+        <mj-include path="./components/about.mjml"/>
+        <mj-include path="./components/declare.mjml"/>
+        <mj-include path="./components/signup.mjml"/>
+        <mj-include path="./components/footer.mjml"/>
+    </mj-body>
+</mjml>

@@ -1,0 +1,38 @@
+<mj-section border-radius="20px" background-color="#B498EB">
+    <mj-column width="92%">
+        <mj-text font-family="Favorit Pro" font-size="24px" line-height="150%" font-weight="bold" color="white">Информация о правилах и сроках проведения конкурса на сайте:</mj-text>
+        <mj-spacer height="24px"/>
+    </mj-column>
+
+    <mj-column width="92%">
+        <mj-button href="https://ligalektorov.znanierussia.ru/"
+                   width="380px"
+                   height="60px"
+                   align="left"
+                   border="2px solid white"
+                   border-radius="20px"
+                   font-size="20px"
+                   background-color="rgba(0,0,0,0)">https://ligalektorov.znanierussia.ru/</mj-button>
+        <mj-spacer height="30px"/>
+    </mj-column>
+
+    <mj-column width="92%">
+        <mj-text font-family="Favorit Pro"
+                 font-size="20px"
+                 line-height="150%"
+                 color="white">🗓️ Успей подать заявку до 19 сентября!</mj-text>
+        <mj-spacer height="30px"/>
+    </mj-column>
+
+    <mj-column width="92%">
+        <mj-button href="https://ligalektorov.znanierussia.ru/?utm_medium=email&utm_source=email&utm_campaign=rassilka"
+                   width="222px"
+                   height="50px"
+                   align="left"
+                   font-family="Favorit Pro"
+                   color="black"
+                   font-size="18px"
+                   border-radius="20px"
+                   background-color="#F7F532">Регистрация</mj-button>
+    </mj-column>
+</mj-section>

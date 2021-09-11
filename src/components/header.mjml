@@ -1,0 +1,10 @@
+<mj-section>
+    <mj-group>
+        <mj-column>
+            <mj-image width="125px" src="./assets/img/logo.svg"/>
+        </mj-column>
+        <mj-column>
+            <mj-image width="92px" src="./assets/img/project.svg"/>
+        </mj-column>
+    </mj-group>
+</mj-section>

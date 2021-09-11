@@ -1,0 +1,12 @@
+<mj-wrapper padding="0">
+    <mj-section padding="0">
+        <mj-column width="100%">
+            <mj-image padding="0" src="./assets/img/preview.png"/>
+        </mj-column>
+    </mj-section>
+    <mj-section>
+        <mj-column width="92%">
+            <mj-text font-family="Favorit Pro" line-height="130%" font-size="28px" font-weight="bold">Прими участие в конкурсе «Лига Лекторов» и получи возможность отправиться в путешествие мечты в одно из уникальных мест России</mj-text>
+        </mj-column>
+    </mj-section>
+</mj-wrapper>

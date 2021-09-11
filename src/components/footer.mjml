@@ -1,0 +1,19 @@
+<mj-section>
+    <mj-group>
+        <mj-column>
+            <mj-image width="135px" height="36px" padding="0" src="./assets/img/social/1.svg" href="https://znanierussia.ru/"/>
+        </mj-column>
+
+        <mj-column>
+            <mj-image width="132px" height="36px" padding="0" src="./assets/img/social/2.svg" href="https://www.instagram.com/znanie_russia/"/>
+        </mj-column>
+
+        <mj-column>
+            <mj-image width="117px" height="36px" padding="0" src="./assets/img/social/3.svg" href="https://www.facebook.com/znanierus"/>
+        </mj-column>
+
+        <mj-column>
+            <mj-image width="138px" height="36px" padding="0" src="./assets/img/social/4.svg" href="https://vk.com/znanierussia"/>
+        </mj-column>
+    </mj-group>
+</mj-section>

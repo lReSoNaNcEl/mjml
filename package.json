@@ -1,0 +1,14 @@
+{
+    "name": "mjml",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "dev": "mjml -w ./src/index.mjml -o ./src/index.html",
+        "build": "mjml ./src/index.mjml -o ./src/index.html",
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "mjml": "^4.10.3"
+    }
+}
